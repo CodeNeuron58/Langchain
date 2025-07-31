@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+
+# Ignore the virtual environment directory
+myenv/
+.vscode/
+
 # Distribution / packaging
 .Python
 build/
